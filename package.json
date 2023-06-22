@@ -2,7 +2,7 @@
   "name": "myfirst-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Haifa-349/my-first-reactproject.git",
+  "homepage": "https://Haifa-349.github.io/myapp-reactproject ",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.0",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
@@ -26,7 +26,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages-d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
