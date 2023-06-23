@@ -2,7 +2,7 @@
   "name": "myfirst-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Haifa-349.github.io/myapp-reactproject",
+  "homepage": "https://Haifa-349.github.io/my-first-reactproject",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.0",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
